@@ -26,3 +26,10 @@ class ViewController1: UIViewController {
         
     }
 }
+//今回グラデーションの色はこちらで用意しました！
+//Colors()インスタンスを定数に代入することで使用します。(13行目、20行目)
+//https://colorhunt.co/palette/196224
+//このサイトは配色を参考にする上でかなり役に立ちます。
+//好みの配色があれば、chrome拡張機能のcolorZillaや、macの純正ツールであるDigital color meterなどを使って
+//カラーコードを取得し、ここでいうColors.swiftファイル内などを作成してstruct構造体としてまとめてあげると
+//配色のパターンができるのでおすすめです。
